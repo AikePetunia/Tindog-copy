@@ -1,2 +1,1 @@
-# Tindog-copy
-copia del tinder furro
+Just practice.
